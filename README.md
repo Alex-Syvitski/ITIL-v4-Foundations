@@ -12,7 +12,7 @@ WARNING: Do not use any OAuth services for exam, very problematic. **Use standal
 
 Study notes for ITIL v4
 
-Work provided a 1 1/2 day course.
+Work provided a 1 1/2 day course. It was excellent, It provided 2 practice exams which I did.
 
 I found this short video series and really enjoyed it.
 
