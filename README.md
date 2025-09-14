@@ -1,3 +1,13 @@
+9/14/2025
+
+Wrote exam, mostly used my study notes. Also used:
+
+https://www.youtube.com/watch?v=uI0n0kmoYy0
+
+Exam was easy.
+
+WARNING: Do not use any OAuth services for exam, very problematic. **Use standalone peoplecert account**, I had to reset my password after learning it was **not permitted.**
+
 8/30/2025
 
 Study notes for ITIL v4
